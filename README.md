@@ -1,4 +1,5 @@
 # Maven
+- [ ] https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 - [ ] https://www.baeldung.com/maven
 ```
 # build common artifact
