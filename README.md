@@ -1,4 +1,5 @@
 # Maven
+- [ ] https://www.baeldung.com/maven
 ```
 # build common artifact
 mvn install
